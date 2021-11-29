@@ -1,0 +1,6 @@
+/* ul elemanları ortalamak için ekledik */
+ul {
+    text-align: center;
+    list-style: inside;
+  }
+
